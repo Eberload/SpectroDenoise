@@ -1,1 +1,4 @@
-# Spectro Denoise
+# Spectro Denoise - remove repetitive patterns and unwanted artifacts from your images
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
+
