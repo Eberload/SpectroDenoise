@@ -88,6 +88,7 @@ This license shall be interpreted and applied in accordance with the laws of the
 If any clause is deemed invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
 The use, execution, or distribution of the Software implies the User’s full acceptance of the terms of this license.
+
 -----------------------------------------ESPAÑOL-----------------------------------------------------
 
                                      LICENCIA DE USO
@@ -177,3 +178,4 @@ Esta licencia se interpretará y aplicará conforme a las leyes del país de res
 Si alguna cláusula se considera inválida o inaplicable, las demás disposiciones permanecerán en pleno efecto.   
 
 El uso, ejecución o distribución del Software implica la aceptación plena de los términos de esta licencia por parte del Usuario.  
+
