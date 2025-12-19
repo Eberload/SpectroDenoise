@@ -2,6 +2,8 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/1.0.0.png)
+
 Spectro Denoise is specialized image processing software. Use the Fast Fourier Transform (FFT) to remove repetitive patterns and unwanted artifacts from your images. It is ideal for photographers, designers, researchers, or anyone who needs to process images to improve their quality. It has multiple automation features and advanced manual controls, and supports colour and grayscale images. It's especially good at removing the halftone effect used in some printed images.
 
 # EXECUTION
