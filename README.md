@@ -47,7 +47,7 @@ Menu bar:
 - If the result still contains a lot of patterns/noise, increase the filter intensity manually.
 - When processing very large images, it may take longer than normal; please be patient, the processing will continue without any problems.
 
-# EXAMPLES
+# EXAMPLES - BEFORE AND AFTER
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone1.png)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone2.png)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone3.png)
@@ -107,7 +107,7 @@ Barra de Menú:
 - Si el resultado aún contiene muchos patrones/ruido, aumenta la intensidad del filtro manualmente.
 - Cuando se procesan imágenes muy grandes, puede tomar más tiempo del normal; tenga paciencia, el procesado continuará sin ningún problema.
 
-# EJEMPLOS
+# EJEMPLOS - ANTES Y DESPUÉS
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone1.png)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone2.png)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone3.png)
