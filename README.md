@@ -48,7 +48,7 @@ Menu bar:
 - When processing very large images, it may take longer than normal; please be patient, the processing will continue without any problems.
 
 # EXAMPLES - BEFORE AND AFTER
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone1.1.4.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone 1.1.4.png)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Hexagon1.png)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone3.png)
 
@@ -108,7 +108,7 @@ Barra de Menú:
 - Cuando se procesan imágenes muy grandes, puede tomar más tiempo del normal; tenga paciencia, el procesado continuará sin ningún problema.
 
 # EJEMPLOS - ANTES Y DESPUÉS
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone1.1.4.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone 1.1.4.png)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Hexagon1.png)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone3.png)
 
