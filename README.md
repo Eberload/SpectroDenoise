@@ -50,7 +50,7 @@ Menu bar:
 # EXAMPLES - BEFORE AND AFTER
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_1.1.4.png)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Hexagon_1.1.4.png)
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone3.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_2.1.1.4.png)
 
 Thank you for using Spectro Denoise!
 If you find it useful, consider donating.💰
@@ -110,7 +110,7 @@ Barra de Menú:
 # EJEMPLOS - ANTES Y DESPUÉS
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_1.1.4.png)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Hexagon_1.1.4.png)
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone3.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_2.1.1.4.png)
 
 ¡Gracias por usar Spectro Denoise!
 Si te es útil, considera donar.💰
