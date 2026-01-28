@@ -119,3 +119,5 @@ Barra de Menú:
 ¡Gracias por usar Spectro Denoise!
 Si te es útil, considera donar.💰
 https://ko-fi.com/eberload
+
+INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文
