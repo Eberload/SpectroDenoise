@@ -40,7 +40,7 @@ Menu bar:
 - Options: Customize theme: Light/Dark and change interface language:  Indonesian, German, English, Spanish, French, Italian, Swahili, Portuguese, Vietnamese, Turkish, Russian, Ukrainian, Urdu, Arabic, Hindi, Bengali, Thai, Korean, Japanese, Simplified Chinese.
 - About: Link for donations, access to tutorial: (Using the brush and spectrogram), link to check the latest version, and information about the software.
 
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/7.1.2.0.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/7.1.2.1.png)
     
 # IMPORTANT
 - It is only necessary to select the bright “stars” near the center of the spectrogram, not all of them. 
@@ -102,7 +102,7 @@ Barra de Menú:
 - Opciones: Personalizar tema: Claro/Oscuro y cambiar idioma de la interfaz:  Indonesio, alemán, inglés, español, francés, italiano, suajili, portugués, vietnamita, turco, ruso, ucraniano, urdu, árabe, hindi, bengalí, tailandés, coreano, japonés, chino simplificado.
 - Acerca: Link para donaciones, acceso a tutorial: (Uso del pincel y el espectrograma), link para revisar la versión más reciente e información acerca del software.
 
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/7.1.2.0.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/7.1.2.1.png)
 
 # IMPORTANTE
 - Solo es necesario seleccionar los “puntos” brillantes cerca del centro del espectrograma, no todos ellos. 
