@@ -4,14 +4,14 @@
 
 1. DESCRIPTION
 
-Scanframe is closed-source software distributed under a Donationware model.
+Spectro Denoise is closed-source software distributed under a Donationware model.
 If you find value in this software, you are invited to make a voluntary donation to the developer.
 
 2. DEFINITIONS
 
 For the purposes of this license:
 
-Software: Executables, components, associated files, and documentation of Scanframe.
+Software: Executables, components, associated files, and documentation of Spectro Denoise.
 
 User: Any natural or legal person who uses the software.
 
@@ -60,7 +60,7 @@ download platforms, software catalogs, or similar services that generate income 
 4.4 ATTRIBUTION
 
 When the software is used in Educational or Commercial activities, the User must provide a mention or attribution to the Software,
-indicating the name “Scanframe,” in the form and location the User deems appropriate, provided that it is reasonable within the context of use.
+indicating the name “Spectro Denoise,” in the form and location the User deems appropriate, provided that it is reasonable within the context of use.
 This attribution does not imply sponsorship, endorsement, or association between the User and the developer.
 
 4.5 PROHIBITED USE
@@ -94,14 +94,14 @@ The use, execution, or distribution of the Software implies the User’s full ac
                                      LICENCIA DE USO
 1. DESCRIPCIÓN
 
-Scanframe es un software de código cerrado distribuido bajo un modelo Donationware.
+Spectro Denoise es un software de código cerrado distribuido bajo un modelo Donationware.
 Si encuentras valor en este software, se invita a realizar una donación voluntaria al desarrollador.
 
 2. DEFINICIONES
 
 A efectos de esta licencia:
 
-Software: Ejecutables, componentes, archivos asociados y documentación de Scanframe.
+Software: Ejecutables, componentes, archivos asociados y documentación de Spectro Denoise.
 
 Usuario: Persona física o jurídica que utilice el software.
 
@@ -150,7 +150,7 @@ plataformas de descarga, catálogos de software o servicios similares, que gener
 4.4 ACREDITACIÓN
 
 Cuando el software sea utilizado en actividades Educativas o Comerciales, el Usuario deberá otorgar una mención o acreditación al Software,
-indicando el nombre “Scanframe”, en la forma y lugar que considere pertinente, siempre que ello sea razonable dentro del contexto de uso.
+indicando el nombre “Spectro Denoise”, en la forma y lugar que considere pertinente, siempre que ello sea razonable dentro del contexto de uso.
 Esta acreditación no implica patrocinio, respaldo ni asociación entre el Usuario y el desarrollador.
 
 4.5 USO PROHIBIDO
