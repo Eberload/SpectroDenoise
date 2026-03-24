@@ -2,7 +2,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/1.1.4.e.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/1.1.2.3.png)
 
 Spectro Denoise is specialized image processing software. Use the Fast Fourier Transform (FFT) to remove repetitive patterns and unwanted artifacts from your images. It is ideal for photographers, designers, researchers, or anyone who needs to process images to improve their quality. It has multiple automation features and advanced manual controls, and supports colour and grayscale images. It's especially good at removing the halftone effect used in some printed images.
 
@@ -12,7 +12,7 @@ Spectro Denoise is specialized image processing software. Use the Fast Fourier T
 - If you use antivirus software, make sure it allows the file to run (false positives are common with .exe files).
 - The executable includes all necessary dependencies.
 
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/6.0.0.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/5.1.2.3.jpg)
 
 # USER INTERFACE
 The interface is divided into three main areas:
@@ -26,21 +26,19 @@ Left panel:
 - 🛑 Clear selection button, removes all masks made with the brush.
 - Buttons for ⚡ Process, 💾 Save.
 
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/2.1.1.4.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/2.1.2.3.png)
 
 Center panel:
 - 🎆 Spectrogram: Shows the frequency representation of the image (FFT).
 - 🏞️ Original: Shows the uploaded image without modification.
 - ⚡ Processed: Shows the result after applying the filter.
 
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/3.1.1.4.png)
-
 Menu bar:
 - File: Options to open, close, and save images.
 - Options: Customize theme: Light/Dark and change interface language:  Indonesian, German, English, Spanish, French, Italian, Swahili, Portuguese, Vietnamese, Turkish, Russian, Ukrainian, Urdu, Arabic, Hindi, Bengali, Thai, Korean, Japanese, Simplified Chinese.
 - About: Link for donations, access to tutorial: (Using the brush and spectrogram), link to check the latest version, and information about the software.
 
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/7.1.2.1.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/3.1.2.3.png)
     
 # IMPORTANT
 - It is only necessary to select the bright “stars” near the center of the spectrogram, not all of them. 
@@ -58,13 +56,13 @@ Thank you for using Spectro Denoise!
 If you find it useful, consider donating.💰
 https://ko-fi.com/eberload
 
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/5.0.0.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/4.1.2.3.png)
 
 # Spectro Denoise: Eliminación de patrones repetitivos en imágenes
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/1.1.4.s.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/6.1.2.3.png)
 
 Spectro Denoise es un software especializado en procesamiento de imágenes. Utiliza la transformada rápida de Fourier (TRF) para borrar patrones repetitivos y artefactos no deseados en tus imágenes. Es ideal para fotógrafos, diseñadores, investigadores o cualquier persona que necesite procesar imágenes para mejorar su calidad. Incluye múltiples automatizaciones y controles manuales avanzados, soporta imágenes en color y en escala de grises. Es especialmente efectivo para eliminar el efecto de semitono que usan algunas imágenes impresas. 
 
@@ -74,7 +72,7 @@ Spectro Denoise es un software especializado en procesamiento de imágenes. Util
 -  Si usas antivirus, asegúrate de que permita la ejecución (falsos positivos comunes en .exe).
 - El ejecutable incluye todas las dependencias necesarias.
 
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/6.0.0.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/5.1.2.3.jpg)
 
 # INTERFAZ DE USUARIO
 La interfaz está dividida en tres áreas principales:
@@ -88,21 +86,19 @@ Panel izquierdo:
 - Botón 🛑 Limpiar selección, elimina todas máscaras hechas con el pincel.
 - Botones para⚡ Procesar, 💾 Guardar.
 
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/2.1.1.4.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/7.1.2.3.png)
 
 Panel central:
 - 🎆 Espectrograma: Muestra la representación en frecuencia de la imagen (FFT).
 - 🏞️ Original: Muestra la imagen cargada sin modificar.
 - ⚡ Procesada: Muestra el resultado después de aplicar el filtro.
 
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/3.1.1.4.png)
-
 Barra de Menú:
 - Archivo: Opciones para abrir, cerrar y guardar imágenes
 - Opciones: Personalizar tema: Claro/Oscuro y cambiar idioma de la interfaz:  Indonesio, alemán, inglés, español, francés, italiano, suajili, portugués, vietnamita, turco, ruso, ucraniano, urdu, árabe, hindi, bengalí, tailandés, coreano, japonés, chino simplificado.
 - Acerca: Link para donaciones, acceso a tutorial: (Uso del pincel y el espectrograma), link para revisar la versión más reciente e información acerca del software.
 
-![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/7.1.2.1.png)
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/8.1.2.3.png)
 
 # IMPORTANTE
 - Solo es necesario seleccionar los “puntos” brillantes cerca del centro del espectrograma, no todos ellos. 
