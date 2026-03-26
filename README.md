@@ -103,8 +103,8 @@ Barra de Menú:
 # IMPORTANTE
 - Solo es necesario seleccionar los “puntos” brillantes cerca del centro del espectrograma, no todos ellos. 
 - Si no hay “picos” de frecuencia claros, no seleccione nada, simplemente haga clic en procesar y controle manualmente la intensidad del filtro. 
-- Si el resultado es demasiado borroso, baja la intensidad del filtro manualmente. 
-- Si el resultado aún contiene muchos patrones/ruido, aumenta la intensidad del filtro manualmente.
+- Si el resultado es demasiado borroso, baje la intensidad del filtro manualmente. 
+- Si el resultado aún contiene muchos patrones/ruido, aumente la intensidad del filtro manualmente.
 - Cuando se procesan imágenes muy grandes, puede tomar más tiempo del normal; tenga paciencia, el procesado continuará sin ningún problema.
 
 # EJEMPLOS - ANTES Y DESPUÉS
