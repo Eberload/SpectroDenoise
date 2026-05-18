@@ -1,11 +1,5 @@
 # Spectro Denoise - Remove repetitive patterns from your images
 
-<div align="center">
-  <a href="https://ko-fi.com/J3J31N82KX" target="_blank" rel="noopener noreferrer">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Donate">
-  </a>
-</div>
-
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/1.1.2.3.png)
 
 Spectro Denoise is specialized image processing software. Use the Fast Fourier Transform (FFT) to remove repetitive patterns and unwanted artifacts from your images. It is ideal for photographers, designers, researchers, or anyone who needs to process images to improve their quality. It has multiple automation features and advanced manual controls, and supports colour and grayscale images. It's especially good at removing the halftone effect used in some printed images.
@@ -57,20 +51,23 @@ Menu bar:
 - If the result still contains a lot of patterns/noise, increase the filter intensity manually.
 - When processing very large images, it may take longer than normal; please be patient, the processing will continue without any problems.
 
+<div align="center">
+  <p><strong>Thank you for using Spectro Denoise!</strong></p>
+ <p><strong>If you find it useful, consider donating.💰</strong></p>
+  <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
+  </a>
+</div>
+
 # EXAMPLES - BEFORE AND AFTER
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_1.1.2.2.jpg)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Hexagon_2.1.2.2.jpg)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_3.1.2.2.jpg)
 
-Thank you for using Spectro Denoise!
-If you find it useful, consider donating.💰
-https://ko-fi.com/eberload
 
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/4.1.2.3.png)
 
 # Spectro Denoise: Eliminación de patrones repetitivos en imágenes
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/6.1.2.3.png)
 
@@ -78,7 +75,7 @@ Spectro Denoise es un software especializado en procesamiento de imágenes. Util
 
 <p align="center">
   <a href="https://github.com/Eberload/SpectroDenoise/releases">
-    Descarga la versión más reciente aquí
+    >>Descarga la versión más reciente aquí<<
   </a>
 </p>
 
@@ -123,14 +120,18 @@ Barra de Menú:
 - Si el resultado aún contiene muchos patrones/ruido, aumente la intensidad del filtro manualmente.
 - Cuando se procesan imágenes muy grandes, puede tomar más tiempo del normal; tenga paciencia, el procesado continuará sin ningún problema.
 
+<div align="center">
+  <p><strong>¡Gracias por usar Spectro Denoise!</strong></p>
+  </p><strong>Si te es útil, considera donar.💰</strong></p>
+  <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
+  </a>
+</div>
+
 # EJEMPLOS - ANTES Y DESPUÉS
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_1.1.2.2.jpg)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Hexagon_2.1.2.2.jpg)
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_3.1.2.2.jpg)
-
-¡Gracias por usar Spectro Denoise!
-Si te es útil, considera donar.💰
-https://ko-fi.com/eberload
 
 - INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文
 - Application compatible with: Windows x64; Linux x64
