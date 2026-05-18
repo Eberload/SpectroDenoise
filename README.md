@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://ko-fi.com/J3J31N82KX" target="_blank" rel="noopener noreferrer">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Donate">
   </a>
 </div>
 
@@ -12,7 +12,7 @@ Spectro Denoise is specialized image processing software. Use the Fast Fourier T
 
 <p align="center">
   <a href="https://github.com/Eberload/SpectroDenoise/releases">
-    Download the latest version here.
+    > Download the latest version here <
   </a>
 </p>
 
