@@ -61,8 +61,22 @@ Menu bar:
 
 # EXAMPLES - BEFORE AND AFTER
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_1.1.2.2.jpg)
+
+<div align="center">
+  <p><strong>Halftone pattern removal, example 1.</strong></p>
+</div>
+
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Hexagon_2.1.2.2.jpg)
+
+<div align="center">
+  <p><strong>Removal of the hexagonal pattern on photo paper, color processing mode.</strong></p>
+</div>
+
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_3.1.2.2.jpg)
+
+<div align="center">
+  <p><strong>Halftone pattern removal, example 2.</strong></p>
+</div>
 
 
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/4.1.2.3.png)
@@ -130,8 +144,22 @@ Barra de Menú:
 
 # EJEMPLOS - ANTES Y DESPUÉS
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_1.1.2.2.jpg)
+
+<div align="center">
+  <p><strong>Eliminación de trama de semitonos, ejemplo 1.</strong></p>
+</div>
+
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Hexagon_2.1.2.2.jpg)
+
+<div align="center">
+  <p><strong>Eliminación del patrón hexagonal en papel fotográfico, modo de procesamiento en color.</strong></p>
+</div>
+
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_3.1.2.2.jpg)
+
+<div align="center">
+  <p><strong>Eliminación de trama de semitonos, ejemplo 2.</strong></p>
+</div>
 
 - INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文
 - Application compatible with: Windows x64; Linux x64
