@@ -1,10 +1,20 @@
 # Spectro Denoise - Remove repetitive patterns from your images
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
+<div align="center">
+  <a href="https://ko-fi.com/J3J31N82KX">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
+  </a>
+</div>
 
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/1.1.2.3.png)
 
 Spectro Denoise is specialized image processing software. Use the Fast Fourier Transform (FFT) to remove repetitive patterns and unwanted artifacts from your images. It is ideal for photographers, designers, researchers, or anyone who needs to process images to improve their quality. It has multiple automation features and advanced manual controls, and supports colour and grayscale images. It's especially good at removing the halftone effect used in some printed images.
+
+<p align="center">
+  <a href="https://github.com/Eberload/SpectroDenoise/releases">
+    Download the latest version here.
+  </a>
+</p>
 
 # EXECUTION
 - Download the executable file “Spectro Denoise.exe” from the link provided by the developer.
@@ -65,6 +75,12 @@ https://ko-fi.com/eberload
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/6.1.2.3.png)
 
 Spectro Denoise es un software especializado en procesamiento de imágenes. Utiliza la transformada rápida de Fourier (TRF) para borrar patrones repetitivos y artefactos no deseados en tus imágenes. Es ideal para fotógrafos, diseñadores, investigadores o cualquier persona que necesite procesar imágenes para mejorar su calidad. Incluye múltiples automatizaciones y controles manuales avanzados, soporta imágenes en color y en escala de grises. Es especialmente efectivo para eliminar el efecto de semitono que usan algunas imágenes impresas. 
+
+<p align="center">
+  <a href="https://github.com/Eberload/SpectroDenoise/releases">
+    Descarga la versión más reciente aquí
+  </a>
+</p>
 
 # EJECUCIÓN
 - Descarga el archivo ejecutable "Spectro Denoise.exe" desde el enlace proporcionado por el desarrollador.
