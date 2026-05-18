@@ -6,7 +6,7 @@ Spectro Denoise is specialized image processing software. Use the Fast Fourier T
 
 <p align="center">
   <a href="https://github.com/Eberload/SpectroDenoise/releases">
-    >>Download the latest version here<<
+    Download the latest version here.
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Spectro Denoise es un software especializado en procesamiento de imágenes. Util
 
 <p align="center">
   <a href="https://github.com/Eberload/SpectroDenoise/releases">
-    >>Descarga la versión más reciente aquí<<
+    Descarga la versión más reciente aquí.
   </a>
 </p>
 
