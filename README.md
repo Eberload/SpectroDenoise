@@ -1,7 +1,7 @@
 # Spectro Denoise - Remove repetitive patterns from your images
 
 <div align="center">
-  <a href="https://ko-fi.com/J3J31N82KX">
+  <a href="https://ko-fi.com/J3J31N82KX" target="_blank" rel="noopener noreferrer">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
   </a>
 </div>
