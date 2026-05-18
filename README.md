@@ -2,7 +2,9 @@
 
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/1.1.2.3.png)
 
+<p align="justify">
 Spectro Denoise is specialized image processing software. Use the Fast Fourier Transform (FFT) to remove repetitive patterns and unwanted artifacts from your images. It is ideal for photographers, designers, researchers, or anyone who needs to process images to improve their quality. It has multiple automation features and advanced manual controls, and supports colour and grayscale images. It's especially good at removing the halftone effect used in some printed images.
+</p>
 
 <p align="center">
   <a href="https://github.com/Eberload/SpectroDenoise/releases">
@@ -85,7 +87,9 @@ Menu bar:
 
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/6.1.2.3.png)
 
-Spectro Denoise es un software especializado en procesamiento de imágenes. Utiliza la transformada rápida de Fourier (TRF) para borrar patrones repetitivos y artefactos no deseados en tus imágenes. Es ideal para fotógrafos, diseñadores, investigadores o cualquier persona que necesite procesar imágenes para mejorar su calidad. Incluye múltiples automatizaciones y controles manuales avanzados, soporta imágenes en color y en escala de grises. Es especialmente efectivo para eliminar el efecto de semitono que usan algunas imágenes impresas. 
+<p align="justify">
+Spectro Denoise es un software especializado en procesamiento de imágenes. Utiliza la transformada rápida de Fourier (TRF) para borrar patrones repetitivos y artefactos no deseados en tus imágenes. Es ideal para fotógrafos, diseñadores, investigadores o cualquier persona que necesite procesar imágenes para mejorar su calidad. Incluye múltiples automatizaciones y controles manuales avanzados, soporta imágenes en color y en escala de grises. Es especialmente efectivo para eliminar el efecto de semitono que usan algunas imágenes impresas.
+</p>
 
 <p align="center">
   <a href="https://github.com/Eberload/SpectroDenoise/releases">
@@ -161,5 +165,9 @@ Barra de Menú:
   <p><strong>Eliminación de trama de semitonos, ejemplo 2.</strong></p>
 </div>
 
-- INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文
-- Application compatible with: Windows x64; Linux x64
+<div align="justify">
+ <p>INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文</p>
+<p>Application compatible with: Windows x64; Linux x64</p>
+</div>
+
+
