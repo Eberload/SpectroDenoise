@@ -7,9 +7,9 @@ Spectro Denoise is specialized image processing software. Use the Fast Fourier T
 </p>
 
 <p align="center">
-  <a href="https://github.com/Eberload/SpectroDenoise/releases">
+ <i><a href="https://github.com/Eberload/SpectroDenoise/releases">
     Download the latest version here.
-  </a>
+  </a></i>
 </p>
 
 # EXECUTION
@@ -59,25 +59,27 @@ Menu bar:
   <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
   </a>
+  <p></p>
+  <p></p>
 </div>
 
 # EXAMPLES - BEFORE AND AFTER
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_1.1.2.2.jpg)
 
 <div align="center">
-  <p><strong>Halftone pattern removal, example 1.</strong></p>
+  <i><p><strong>Halftone pattern removal, example 1.</strong></p></i>
 </div>
 
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Hexagon_2.1.2.2.jpg)
 
 <div align="center">
-  <p><strong>Removal of the hexagonal pattern on photo paper, color processing mode.</strong></p>
+  <i><p><strong>Removal of the hexagonal pattern on photo paper, color processing mode.</strong></p></i>
 </div>
 
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_3.1.2.2.jpg)
 
 <div align="center">
-  <p><strong>Halftone pattern removal, example 2.</strong></p>
+  <i><p><strong>Halftone pattern removal, example 2.</strong></p></i>
 </div>
 
 
@@ -92,9 +94,9 @@ Spectro Denoise es un software especializado en procesamiento de imágenes. Util
 </p>
 
 <p align="center">
-  <a href="https://github.com/Eberload/SpectroDenoise/releases">
+   <i><a href="https://github.com/Eberload/SpectroDenoise/releases">
     Descarga la versión más reciente aquí.
-  </a>
+  </a></i>
 </p>
 
 # EJECUCIÓN
@@ -144,34 +146,37 @@ Barra de Menú:
   <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
   </a>
+  <p></p>
+  <p></p>
 </div>
 
 # EJEMPLOS - ANTES Y DESPUÉS
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_1.1.2.2.jpg)
 
 <div align="center">
-  <p><strong>Eliminación de trama de semitonos, ejemplo 1.</strong></p>
+  <i><p><strong>Eliminación de trama de semitonos, ejemplo 1.</strong></p></i>
 </div>
 
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Hexagon_2.1.2.2.jpg)
 
 <div align="center">
-  <p><strong>Eliminación del patrón hexagonal en papel fotográfico, modo de procesamiento en color.</strong></p>
+  <i><p><strong>Eliminación del patrón hexagonal en papel fotográfico, modo de procesamiento en color.</strong></p></i>
 </div>
 
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Samples/Halftone_3.1.2.2.jpg)
 
 <div align="center">
-  <p><strong>Eliminación de trama de semitonos, ejemplo 2.</strong></p>
+  <i><p><strong>Eliminación de trama de semitonos, ejemplo 2.</strong></p></i>
 </div>
 
 <div align="justify">
  <p>INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文</p>
-<p>Application compatible with: Windows x64; Linux x64</p>
+<i><p>Application compatible with: Windows x64; Linux x64</p></i>
 </div>
 
 
-<div align="justify">
-<p></p>
-<p></p>
+![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/9.1.2.3.png)
+
+<div align="center">
+<p><i>Scanframe AppImage running on Linux.</i></p>
 </div>
