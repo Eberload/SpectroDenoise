@@ -178,5 +178,5 @@ Barra de Menú:
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/9.1.2.2.png)
 
 <div align="center">
-<p><i>Scanframe AppImage running on Linux.</i></p>
+<p><i>Spectro Denoise AppImage running on Linux.</i></p>
 </div>
