@@ -41,7 +41,7 @@ Center panel:
 
 Menu bar:
 - File: Options to open, close, and save images.
-- Options: Customize theme: Light/Dark and change interface language:  Indonesian, German, English, Spanish, French, Italian, Swahili, Portuguese, Vietnamese, Turkish, Russian, Ukrainian, Urdu, Arabic, Hindi, Bengali, Thai, Korean, Japanese, Simplified Chinese.
+- Options: Customize theme: Light/Dark and change interface language:  Indonesian, German, English, Spanish, French, Italian, Swahili, Portuguese, Vietnamese, Turkish, Russian, Ukrainian, Urdu, Arabic, Hindi, Bengali, Thai, Korean, Japanese, Simplified Chinese, Dutch, Swedish, Norwegian, Danish, Finnish, Polish.
 - About: Link for donations, access to tutorial: (Using the brush and spectrogram), link to check the latest version, and information about the software.
 
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/3.1.2.3.png)
@@ -128,7 +128,7 @@ Panel central:
 
 Barra de Menú:
 - Archivo: Opciones para abrir, cerrar y guardar imágenes
-- Opciones: Personalizar tema: Claro/Oscuro y cambiar idioma de la interfaz:  Indonesio, alemán, inglés, español, francés, italiano, suajili, portugués, vietnamita, turco, ruso, ucraniano, urdu, árabe, hindi, bengalí, tailandés, coreano, japonés, chino simplificado.
+- Opciones: Personalizar tema: Claro/Oscuro y cambiar idioma de la interfaz:  Indonesio, alemán, inglés, español, francés, italiano, suajili, portugués, vietnamita, turco, ruso, ucraniano, urdu, árabe, hindi, bengalí, tailandés, coreano, japonés, chino simplificado, neerlandés, sueco, noruego, danés, finlandés, polaco.
 - Acerca: Link para donaciones, acceso a tutorial: (Uso del pincel y el espectrograma), link para revisar la versión más reciente e información acerca del software.
 
 ![alt text](https://github.com/Eberload/SpectroDenoise/blob/main/Screenshots/8.1.2.3.png)
@@ -170,7 +170,7 @@ Barra de Menú:
 </div>
 
 <div align="justify">
- <p>INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文</p>
+ <p>INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文, Nederlands, Svenska, Norsk, Dansk, Suomi, Polski.</p>
 <i><p>Application compatible with: Windows x64; Linux x64</p></i>
 </div>
 
